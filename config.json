@@ -13,7 +13,7 @@
       "transformGroup": "js",
       "buildPath": "build/js/",
       "files": [{
-        "destination": "tokens.css",
+        "destination": "tokens.js",
         "format": "javascript/module-flat"
       }]
     }
